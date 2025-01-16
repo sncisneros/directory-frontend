@@ -10,6 +10,8 @@ module.exports = {
         neutralLight: '#e6d9c6',
         neutralDark: '#3a4660',
         accent: '#acb7ae',
+        open: '#22c55e',
+        closed: '#ef4444',
       },
       fontFamily: {
         elegant: ['"Playfair Display"', 'serif'],
